@@ -23,9 +23,9 @@ Languages and Tools:
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
     </a>
 
-![](https://activity-graph.herokuapp.com/graph?username=OmKanbi&theme=react-dark&area=true)
+![](https://activity-graph.herokuapp.com/graph?username=omkanbi&theme=react-dark&area=true)
 <!--
-**Aakashdeveloper/Aakashdeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**OmKanbi/OmKanbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
