@@ -2,6 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Om-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/om-kanbi-00b27224b/)](https://www.linkedin.com/in/om-kanbi-00b27224b/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Om-yellow)](https://stackoverflow.com/users/20043008/om-kanbi)
+[![Website Badge](https://img.shields.io/badge/WebSite-Om-green)](https://omkanbi.github.io/Portfolio/)
 
 I'm
 Full Stack Web Developer Intern at Edureka.
