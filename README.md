@@ -4,14 +4,14 @@
     <td><div><h1><i>Hey there!<img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="30"/></div><h1>
       <div><i>I'm a Full Stack Web Developer Intern at Edureka!</i><div>
       <div id="badges">
-          <a href="your-linkedin-URL">
+          <a href="https://www.linkedin.com/in/omkanbi/">
             <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
           </a>
-          <a href="your-youtube-URL">
-            <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Youtube Badge"/>
+          <a href="https://omkanbi.github.io/Portfolio/">
+            <img src="https://img.shields.io/badge/Portfolio-blueviolet.svg?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio Badge"/>
           </a>
-          <a href="your-twitter-URL">
-            <img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Twitter Badge"/>
+          <a href="https://stackoverflow.com/users/20043008/om-kanbi">
+            <img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow Badge"/>
           </a>
       </div>
     </td>
