@@ -1,7 +1,20 @@
 
 <table>
   <tr>
-    <td>Hey there!<img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="30"/><sub>I'm a Full Stack Web Developer Intern at Edureka!</sub></td>
+    <td><div><h1><i>Hey there!<img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="30"/></div><h1>
+      <div><i>I'm a Full Stack Web Developer Intern at Edureka!</i><div>
+      <div id="badges">
+          <a href="your-linkedin-URL">
+            <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+          </a>
+          <a href="your-youtube-URL">
+            <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Youtube Badge"/>
+          </a>
+          <a href="your-twitter-URL">
+            <img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Twitter Badge"/>
+          </a>
+      </div>
+    </td>
     <td><img src="https://media.giphy.com/media/2zeji2UedvZzvIZ45N/giphy.gif" width="300"/></td>
   </tr>
  </table>
@@ -10,17 +23,7 @@
 
 
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dracula&animation=default&layout=default&font=default)
-<div id="badges">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omkanbi&layout=compact&theme=ayu-mirage)](https://github.com/omkanbi/github-readme-stats)
 
