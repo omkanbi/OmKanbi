@@ -1,7 +1,13 @@
-<div>
-  <h3>Hey there! <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="30"/> <br/> I'm a Full Stack Web Developer Intern at Edureka!</h3>
-  <img src="https://media.giphy.com/media/2zeji2UedvZzvIZ45N/giphy.gif" width="300"/>
-</div>
+
+<table>
+  <tr>
+    <td>Hey there!<img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="30"/><sub>I'm a Full Stack Web Developer Intern at Edureka!</sub></td>
+    <td><img src="https://media.giphy.com/media/2zeji2UedvZzvIZ45N/giphy.gif" width="300"/></td>
+  </tr>
+ </table>
+ 
+  
+
 
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dracula&animation=default&layout=default&font=default)
 <div id="badges">
