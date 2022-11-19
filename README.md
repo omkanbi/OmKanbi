@@ -1,8 +1,8 @@
+<div align="center">
+  
 
-<table>
-  <tr>
-    <td><div><h1><i>Hey there!<img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="30"/></div><h1>
-      <div><i>I'm a Full Stack Web Developer Intern at Edureka!</i><div>
+
+ <h1><i>Hey there!<img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="30"/></br><i>I'm a Full Stack Web Developer Intern at Edureka!</i></h1>
       <div id="badges">
           <a href="https://www.linkedin.com/in/omkanbi/">
             <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -14,10 +14,8 @@
             <img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow Badge"/>
           </a>
       </div>
-    </td>
-    <td><img src="https://media.giphy.com/media/2zeji2UedvZzvIZ45N/giphy.gif" width="300"/></td>
-  </tr>
- </table>
+
+<img src="https://media.giphy.com/media/2zeji2UedvZzvIZ45N/giphy.gif" width="300"/>
  
   
 
@@ -27,17 +25,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omkanbi&layout=compact&theme=ayu-mirage)](https://github.com/omkanbi/github-readme-stats)
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=omkanbi)
-
-<div>
-  <h4>🏆 Github Profile Trophy</h4>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=omkanbi&column=7"/>
-  </a>
-  
-</div>
-
-Languages and Tools: 
+  <div>
     <a href="#">
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Badge"/>
     </a>
@@ -68,7 +56,13 @@ Languages and Tools:
     <a href="#">
         <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Ps Badge"/>
     </a>
+  </div>
     
+ <div>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=omkanbi&column=7"/>
+  </a>
+</div>   
  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=omkanbi&show_icons=true&theme=jolly" alt="omkanbi" /></p>
     
 
@@ -77,3 +71,4 @@ Languages and Tools:
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
+</div>  
