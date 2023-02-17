@@ -13,9 +13,9 @@
           <a href="https://stackoverflow.com/users/20043008/om-kanbi">
             <img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow Badge"/>
           </a>
-      </div>
+      </div><br />
 
-<img src="https://media.giphy.com/media/2zeji2UedvZzvIZ45N/giphy.gif" width="300"/>
+<img src="https://media.giphy.com/media/2zeji2UedvZzvIZ45N/giphy.gif" width="300"/><br />
  
   
 
