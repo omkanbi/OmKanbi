@@ -32,6 +32,9 @@
     
 
 ![](https://activity-graph.herokuapp.com/graph?username=omkanbi&theme=react-dark&area=true)
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=aakashdeveloper&column=7"/>
+  </a>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
