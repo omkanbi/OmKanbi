@@ -7,7 +7,7 @@
           <a href="https://www.linkedin.com/in/omkanbi/">
             <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
           </a>
-          <a href="https://omkanbi.github.io/Portfolio/">
+          <a href="https://omkanbi.github.io/portfolio/">
             <img src="https://img.shields.io/badge/Portfolio-blueviolet.svg?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio Badge"/>
           </a>
           <a href="https://stackoverflow.com/users/20043008/om-kanbi">
