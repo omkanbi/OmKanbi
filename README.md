@@ -2,7 +2,7 @@
   
 
 
- <h1><i>Hey there!<img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="30"/></br><i>I'm a Full Stack Web Developer</i></h1>
+ <h1><i>Hey there!<img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="30"/></br><i>I'm a Web Developer</i></h1>
       <div id="badges">
           <a href="https://www.linkedin.com/in/omkanbi/">
             <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
